@@ -1,5 +1,5 @@
 <?php
-    //preencher as credenciais 'usuario' e 'senha'
+    //preencher as variáveis $usuario, $senha e $host_bd
     $usuario = '';
     $senha = '';
     $host_bd = 'pgsql:host= ;dbname= ';
