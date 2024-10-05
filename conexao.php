@@ -2,7 +2,7 @@
     //preencher as credenciais 'usuario' e 'senha'
     $usuario = '';
     $senha = '';
-    $host_bd = 'pgsql:host=localhost;dbname=p1_v2';
+    $host_bd = 'pgsql:host= ;dbname= ';
 
     try{
         $conn = new PDO($host_bd, $usuario, $senha);
